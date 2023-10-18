@@ -1,0 +1,16 @@
+import GradeForm from './GradeForm'
+import RechargeForm from './RechargeForm'
+import LoginForm from './LoginForm'
+import ProfitForm from './ProfitForm'
+import WithdrawForm from './WithdrawForm'
+import ParentForm from './ParentForm'
+import StaffForm from './StaffForm'
+import PasswordForm from './PasswordFrom'
+import PaypasswordForm from './Paypassword'
+import AtlasForm from './AtlasForm'
+import UserModal from './UserModal'
+import PhoneFrom from './PhoneFrom.vue'
+import SvipForm from './SvipForm.vue'
+import ZSForm from './ZSForm.vue'
+
+export { GradeForm, RechargeForm, LoginForm, ProfitForm, WithdrawForm, ParentForm, StaffForm, PasswordForm, PaypasswordForm, AtlasForm, UserModal, PhoneFrom, SvipForm, ZSForm }
